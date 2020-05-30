@@ -16,23 +16,24 @@ Aslında iki saatlik bir atölye şeklinde dizayn edilmiştir, ama üç saat sü
 
 İstediğiniz şekilde kullanmaya özgürsünüz --- her türlü katkıya açıktır!
 
-Translations
+Çeviriler
 ------------
 
-Translations in this repo:
+Bu repo'da yer alan çeviriler şunlardır:
 
-- `fr` French (thanks to Yannis Haralambous)
+- `fr` Fransızca (Yannis Haralambous tarafından)
 
-Translations available outside of this repository:
+Bu repo dışında bulabileceğiniz çeviriler ise:
 
-- [Chinese](https://github.com/tanjz12/latex-course)
-- [Español](https://github.com/guanucoluis/latex-course)
-- [Finnish](https://github.com/villeheilala/latex-course)
-- [Italian](https://github.com/mirtexxan/latex-course)
-- [Português](https://github.com/lrsantos11/latex-course)
-- [Russian](https://github.com/sgolovan/latex-course)
+- [Çince](https://github.com/tanjz12/latex-course)
+- [İspanyolca](https://github.com/guanucoluis/latex-course)
+- [Fince](https://github.com/villeheilala/latex-course)
+- [İtalyanca](https://github.com/mirtexxan/latex-course)
+- [Portekizce](https://github.com/lrsantos11/latex-course)
+- [Rusça](https://github.com/sgolovan/latex-course)
+- [Türkçe](https://github.com/ozlemtuncel/latex-course)
 
-If you translate these slides, please feel free to open a pull request to either add a link or add your files in a subfolder --- whichever you prefer.
+Eğer siz de bu slaytları çevirirseniz, pull request yaparak kendi dosyalarınızı ya da linklerinizi ekleyebilirsiniz --- tamamen sizin tercihinize kalmış.
 
 Development
 -----------
