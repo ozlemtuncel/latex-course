@@ -1,22 +1,20 @@
 latex-course
 ============
 
-Slides for an introductory course on LaTeX. The slides and their LaTeX source
-code are provided in [this github repository](https://github.com/jdleesmiller/latex-course) under a permissive MIT license.
+LaTeX'e giriş dersinin içeriği üzerine kısa bir bilgi. Slaytlar ve diğer LaTeX kaynaklarına dair kodlar 
+[bu github repository'sinde](https://github.com/jdleesmiller/latex-course) bulunur (kodlar serbest MIT lisansı altındadır).
 
-The aim is to get students writing in LaTeX as quickly as possible. The material is presented as a set of examples, and broader concepts and techniques are explained as they arise. Each part includes exercises that can be completed on [Overleaf](https://www.overleaf.com), the free online LaTeX editor, so you don't have to worry about getting LaTeX and related tools installed on everyone's computers.
+Bu rehberin amacı öğrencilere LaTeX kullanarak yazmayı hızlıca öğretmektir. Materyaller örnekler grubu ve gerektiği zaman genel konsept ve teknıklerın açıklanması şeklinde dizayn edilmiştir. Her bir parça (Part 1, Part 2 ...) [Overleaf](https://www.overleaf.com)'da yapabileceğiniz şekilde tasarlanmıştır. [Overleaf](https://www.overleaf.com) ücretsiz ve online bir LaTeX editörüdür, yani LaTeX ya da gerekli programları edinmek ile uğraşmak zorunda değilsiniz. 
 
-These slides were originally used to deliver two two-hour workshops, but there is probably enough material for three workshops, so there are three parts:
+Aslında iki saatlik bir atölye şeklinde dizayn edilmiştir, ama üç saat sürecek olan bir atölye için de mevcut materyaller vardır. Bu üç parça ise şunlardır: 
 
-1. [The Basics](http://jdleesmiller.github.io/latex-course/en/part1.pdf): ideas, syntax, equations, environments, packages
+1. [Temel Öğeler](http://jdleesmiller.github.io/latex-course/en/part1.pdf): fikirler, sintaks, formüller, çevreler (environments), ve paketler
 
-1. [Structed Documents &
-More](http://jdleesmiller.github.io/latex-course/en/part2.pdf): titles, sections, cross-references, figures, tables, bibliographies.
+1. [Yapılandırılmış Dokümanlar ve Daha Fazlası](http://jdleesmiller.github.io/latex-course/en/part2.pdf): başlıklar, bölümler, etiketlemek, figürler, tablolar, bibliografya.
 
-1. [Not Just Papers: Presentations & More](http://jdleesmiller.github.io/latex-course/en/part3.pdf): recap exercise, presentations with beamer, drawings with
-tikz.
+1. [Ödevlerden Daha Fazlası: Sunumlar & Diğerleri](http://jdleesmiller.github.io/latex-course/en/part3.pdf): tekrar egzersizleri, beamer paketi kullanarak sunum hazırmala, tikz paketi kullanarak çizim yapma.
 
-Feel free to use however you like --- contributions welcome!
+İstediğiniz şekilde kullanmaya özgürsünüz --- her türlü katkıya açıktır!
 
 Translations
 ------------
